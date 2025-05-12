@@ -1,1 +1,1 @@
-"print('Hello CI/CD Project dari admin 2')" 
+"print('Hello CI/CD Project dari admin')" 
